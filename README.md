@@ -1,2 +1,2 @@
 # DeepONet-for-Neutron-Transport
-DeepONet for Neutron Transport in Nuclear Engineering
+DeepONet for Neutron Transport in Nuclear Reactors
